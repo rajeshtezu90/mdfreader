@@ -1,0 +1,10 @@
+Cython==0.27.1
+lxml==4.0.0
+mdfreader==0.2.6
+mpmath==1.0.0
+numpy==1.13.3
+pandas==0.20.3
+python-dateutil==2.6.1
+pytz==2017.2
+six==1.11.0
+sympy==1.1.1
