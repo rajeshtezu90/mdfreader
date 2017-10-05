@@ -41,6 +41,12 @@ Evaluated for Windows and Linux platforms (x86 and AMD64)
 
 Requirements:
 =============
+
+### Run the below command to install requirements:
+```
+$pip3 install -r requirements.txt
+```
+
 Mdfreader is mostly relying on numpy/scipy/matplotlib.
 
 Reading channels defined by a formula will require sympy.
